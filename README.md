@@ -1,7 +1,7 @@
 ![alttext](https://github.com/annkatsko/client-calendar-readme-img/raw/main/messagif.gif)
 
 # 💫 About Me:
-I'm working on various websites using Python framework to get practical skills in Web development. <br>My goal is to become a professional software engineer.<br>
+I'm working on various websites using Python frameworks to get practical skills in Web development. <br>My goal is to become a professional software engineer.<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ I'm working on various websites using Python framework to get practical skills i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=annkatsko&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annkatsko&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
