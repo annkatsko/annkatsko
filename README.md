@@ -1,4 +1,4 @@
-![alt text](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)](https://github.com/annkatsko/client-calendar-readme-img/raw/main/messagif.gif)
+![alttext](https://github.com/annkatsko/client-calendar-readme-img/raw/main/messagif.gif)
 
 # 💫 About Me:
 I'm working on various websites using Python framework to get practical skills in Web development. <br>My goal is to become a professional software engineer.<br>
